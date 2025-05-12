@@ -7,3 +7,7 @@
 ``` javascript
 var example = "infinity";
 ```
+
+- [x] Wake up
+- [x] Be awesome
+- [ ] Drink water
